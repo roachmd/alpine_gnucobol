@@ -1,10 +1,6 @@
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
 
-require 'fileutils'
-require 'open-uri'
-require 'tempfile'
-
 Vagrant.require_version ">= 1.8.5"
 
 # Global Variables 
