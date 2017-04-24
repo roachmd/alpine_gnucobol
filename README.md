@@ -27,5 +27,5 @@
 
 `Basically, I did all the hard work in the Vagrant File lines 26 - 29.`
 
-License
+## License
 The Dockerfiles in this repository are licensed under the GPL 2 or later.
