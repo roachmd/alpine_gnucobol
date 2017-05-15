@@ -1,6 +1,6 @@
  ## Project :: GnuCobol 2.0 R2 on Alpine Linux.
  ***
- `Wanted to Bring more visibility to this Project, make it easier to build and Dockerizer it`
+ `To Bring more visibility to this Project and make it easier to build and Dockerizer it`
  
  ### Vagrant Build Environment
  > Alpine Linux v3.4 (3.4.0) Development Environment
