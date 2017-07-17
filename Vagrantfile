@@ -1,5 +1,6 @@
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
+# Be sure to add :: vagrant plugin install vagrant-alpine
 
 Vagrant.require_version ">= 1.8.5"
 
